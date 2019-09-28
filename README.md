@@ -2,6 +2,7 @@
 Console for Tom Clancy's Ghost Recon Wildlands: Ghost Mode to save and load progress on the fly
 
 **Currently in active development; initial release**
+_Powered by team EuXe_
 
 ## Getting Started
 
@@ -33,3 +34,6 @@ These instructions help enable you to download and run the console for yourself.
 - Add more commands
 - Add custom path configuration
 - Add support for other operating systems
+- Compress files
+- Support for version control
+- Stat edits
